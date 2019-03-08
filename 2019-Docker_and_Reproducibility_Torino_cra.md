@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  ""
-date_start:   
-date_end:   
-venue: 
-description: 
+title:  "Docker and Reproducibility <font color='green'></font>"
+date_start:  2019-06-13 
+date_end: 2019-06-14   
+venue: Milano, Italy
+description: Docker is a container framework for Linux that allows a developer to make easier the creation, deployment and execution of applications by using containers. During the workshop the participant will learn the core concepts of Docker and how to easily embed bioinformatic pipelines/workflows into a docker container.
 
 ---
 
@@ -24,12 +24,9 @@ description:
 <td><a href=""><img src="./img/Logo_INGM_web.jpeg" height="60"></a></td>
 <td weight="20"></td>
 <td><a href=""><img src="./img/Logo_cnr_ipsp.jpeg" height="60"></a></td>
-
-
-
-
 </tr>
 </table>
+<br>
 <br>
 
 ### Important Dates 
@@ -45,19 +42,23 @@ Via Nizza, 52<br>
 10126 Torino, Italy<br>
 [https://www.mbc.unito.it/it](https://www.mbc.unito.it/it)
 <br>
-
+<br>
 
 ### Fee 
 The course includes a fee of **60 Euros**, covering 4 coffee breaks and 2 lunches. Participants are expected to pay their own travel and accomodation costs (if any).
+<br>
+<br>
 
 ### Selection
 A maximum of **15** candidates will be selected based on their need for the course and their prerequisites as emerging from the [**Application form - Registration**](https://goo.gl/forms/xl9YwsPl1wjuHLdi2). Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes.
+<br>
 <br>
 
 ### Laptop
 Participants will be requested to bring their own laptop; in case of need we can provide a computer to participants.
 The mandatory requirements for the laptop are the presence of an ethernet plug/adapter and VNC client installation.
-
+<br>
+<br>
 
 ### Instructors
 - [**Marco Beccuti**](https://elixir-iib-training.github.io/website/instructors/marco_beccuti.html) - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
@@ -71,10 +72,11 @@ The mandatory requirements for the laptop are the presence of an ethernet plug/a
 <br>
 
 ### Organisers
-- [**Raffaele Calogero**](https://elixir-iib-training.github.io/website/instructors/raffaele_calogero.html) - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT 
-- [**Marco Chiapello**]() - Institute for Sustainable Plant Protection of the National Research Council of Italy (CNR)
-- [**Marco Beccuti**](https://elixir-iib-training.github.io/website/instructors/marco_beccuti.html) - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
-- 
+- **Raffaele Calogero** - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT 
+- **Marco Chiapello** - Institute for Sustainable Plant Protection of the National Research Council of Italy (CNR)
+- **Marco Beccuti** - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
+- **Loredana Le Pera** - ELIXIR-IIB Training Coordinator Deputy, IBIOM/IBPM-CNR, IT
+- **Allegra Via** - ELIXIR-IIB Training Coordinator, IBPM-CNR, IT
 <br>
 <br>
 
