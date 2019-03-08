@@ -81,6 +81,13 @@ The mandatory requirements for the laptop are the presence of an ethernet plug/a
 For all kinds of queries, please contact the local organiser **Raffaele Calogero** at: <raffaele.calogero@unito.it>, tel: +39 0116706454, cel: +39 3333827080.<br>
 <br>
 
+<table border="0">
+<tr>
+	<td><a href=""><img src="./img/logoCorso_Docker.png" height="80"></a>
+	</td>
+	</tr>
+	</table>
+
 ### Course Description
 Bioinformatics analysis typically integrate a large number of different tools, reference data to elaborate the input data and derive results. Reproducing the same analysis by other researchers is often a hard task as many pieces of the puzzle are missing from the used methodology. While the raw datasets are generally available; a clear workflow detailing the results reproducibility is often missing. Indeed, a simple list of tools used in the workflow could be not enough to guarantee the result reproducibility: different releases of the same tools or/and of the system libraries (exploited by such tools) might lead to sneaky reproducibility issues. The biggest obstacle in computational reproducibility is then to create a reliable, standalone, multiplatform and lightweight-working environment in which all the computational needs for a study are installed and frozen. Virtualization and containerization are the two approaches proposed to address this issue.
 
