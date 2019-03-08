@@ -15,15 +15,15 @@ description:
 	<td weight="20"></td>
 	<td><a href=""><img src="./img/Logo_CNR_IBPM.jpeg" height="80"></a></td>
 	<td weight="20"></td>
-	<td><a href=""><img src="./img/Logo_cnr_ipsp.jpeg" height="80"></a></td>
+	<td><a href=""><img src="./img/Logo_cnr_ipsp.jpeg" height="60"></a></td>
 	</tr>
 	</table>
 	
 <table border="0">
 <tr>
-<td><a href=""><img src="./img/Logo_unito.png" height="80"></a></td>
+<td><a href=""><img src="./img/Logo_unito.png" height="60"></a></td>
 <td weight="20"></td>
-<td><a href=""><img src="./img/Logo_INGM_web.jpeg" height="80"></a></td>
+<td><a href=""><img src="./img/Logo_INGM_web.jpeg" height="60"></a></td>
 
 
 </tr>
