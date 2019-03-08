@@ -81,13 +81,13 @@ The mandatory requirements for the laptop are the presence of an ethernet plug/a
 <br>
 
 ### Contact
-For all kinds of queries, please contact the local organiser **Raffaele Calogero** at: <raffaele.calogero@unito.it>, tel: +39 0116706454, cel: +39 3333827080.<br>
+For all kinds of queries, please contact the ELIXIR-IIB Training Team at  <elixir.ita.training@gmail.com> or the local organiser **Raffaele Calogero** at: <raffaele.calogero@unito.it>, tel: +39 0116706454, cel: +39 3333827080.<br>
+<br>
 <br>
 
 <table border="0">
 <tr>
-	<td><a href=""><img src="./img/logoCorso_Docker.png" height="80"></a>
-	</td>
+	<td><a href=""><img src="./img/logoCorso_Docker.png" height="80"></a></td>
 	</tr>
 	</table>
 
