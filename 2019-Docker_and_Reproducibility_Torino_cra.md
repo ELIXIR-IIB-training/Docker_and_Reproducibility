@@ -15,7 +15,7 @@ description:
 	<td weight="20"></td>
 	<td><a href=""><img src="./img/Logo_CNR_IBPM.jpeg" height="80"></a></td>
 	<td weight="20"></td>
-	<td><a href=""><img src="./img/Logo_CNR_IPSP.jpeg" height="80"></a></td>
+	<td><a href=""><img src="./img/Logo_cnr_ipsp.jpeg" height="80"></a></td>
 	</tr>
 	</table>
 	
