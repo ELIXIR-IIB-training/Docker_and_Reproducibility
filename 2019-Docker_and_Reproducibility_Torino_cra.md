@@ -48,9 +48,10 @@ Via Nizza, 52<br>
 
 
 ### Fee 
-The course includes a fee of **60 Euros**, covering 4 coffee breaks and 2 lunches. Participants are expected to pay their own travel and hotel costs (if any).
+The course includes a fee of **60 Euros**, covering 4 coffee breaks and 2 lunches. Participants are expected to pay their own travel and accomodation costs (if any).
 
-A maximum of **15** candidates will be selected based on their need for the course and their prerequisites as emerging from the application form. Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes.
+### Selection
+A maximum of **15** candidates will be selected based on their need for the course and their prerequisites as emerging from the [**Application form - Registration**](https://goo.gl/forms/xl9YwsPl1wjuHLdi2). Priority will be given to candidates from ELIXIR-IIB member institutions (see the list at the bottom) and ELIXIR nodes.
 <br>
 
 ### Laptop
@@ -127,7 +128,7 @@ By the end of this course, the participant will be able to:<br>
 
 
 
-### [Application Form]()
+### [Application Form - Registration](https://goo.gl/forms/xl9YwsPl1wjuHLdi2)
 <br>
 <br>
 
