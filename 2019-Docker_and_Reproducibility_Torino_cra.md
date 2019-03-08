@@ -10,16 +10,22 @@ description:
 
 <table border="0">
 <tr>
-	<td><a href="https://elixir-iib-training.github.io/website/"><img src="./img/logo_iib.png" height="110" width="230"></a>
+	<td><a href="https://elixir-iib-training.github.io/website/"><img src="./img/logo_iib.png" height="80"></a>
 	</td>
+	<td weight="20"></td>
+	<td><a href=""><img src="./img/Logo_CNR_IBPM.jpeg" height="80"></a></td>
+	<td weight="20"></td>
+	<td><a href=""><img src="./img/Logo_CNR_IPSP.jpeg" height="80"></a></td>
 	</tr>
-	<tr height="20"></tr>
-	<tr>
-	<td><a href=""><img src="./img/Logo_CNR_Italy.png" height="100" width="200"></a>
-	</td>
-	<td width="20"></td>
-	<td><a href=""><img src="./img/Logo_INGM_web.jpeg" height="100" width="200"></a>
-	</td>
+	</table>
+	
+<table border="0">
+<tr>
+<td><a href=""><img src="./img/Logo_unito.png" height="80"></a></td>
+<td weight="20"></td>
+<td><a href=""><img src="./img/Logo_INGM_web.jpeg" height="80"></a></td>
+
+
 </tr>
 </table>
 <br>
