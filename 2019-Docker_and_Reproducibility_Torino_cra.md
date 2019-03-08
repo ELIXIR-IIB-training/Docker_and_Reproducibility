@@ -30,7 +30,8 @@ description: Docker is a container framework for Linux that allows a developer t
 <br>
 
 ### Important Dates 
-- Deadline for applications: **31-05-2019**
+- Deadline for applications: **17-05-2019**
+- Chosen participants will be notified by: 24-05-2019
 - Course date: **13-14 June 2019**
 <br>
 <br>
