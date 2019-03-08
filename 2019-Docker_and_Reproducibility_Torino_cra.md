@@ -15,15 +15,17 @@ description:
 	<td weight="20"></td>
 	<td><a href=""><img src="./img/Logo_CNR_IBPM.jpeg" height="80"></a></td>
 	<td weight="20"></td>
-	<td><a href=""><img src="./img/Logo_cnr_ipsp.jpeg" height="60"></a></td>
+	<td><a href=""><img src="./img/Logo_unito.png" height="60"></a></td>
 	</tr>
 	</table>
 	
 <table border="0">
 <tr>
-<td><a href=""><img src="./img/Logo_unito.png" height="60"></a></td>
-<td weight="20"></td>
 <td><a href=""><img src="./img/Logo_INGM_web.jpeg" height="60"></a></td>
+<td weight="20"></td>
+<td><a href=""><img src="./img/Logo_cnr_ipsp.jpeg" height="60"></a></td>
+
+
 
 
 </tr>
@@ -136,9 +138,9 @@ By the end of this course, the participant will be able to:<br>
 </tr>
 <tr>
    <td height="50">09:30 - 10:30</td>
-   <td height="50">Lecture or Practical (?)</td>
-   <td height="50">Who (?)</td>
-   <td height="50">What (?)</td>
+   <td height="50">Lecture </td>
+   <td height="50">Beccuti/Bonnal/Calogero</td>
+   <td height="50">General Information on Docker infrastructure<td>
 </tr>
 <tr>
    <td height="50">10:30 - 11:00</td>
@@ -146,9 +148,9 @@ By the end of this course, the participant will be able to:<br>
 </tr>
 <tr>
    <td height="50">11:00 - 12:30</td>
-   <td height="50">Lecture or Practical</td>
-   <td height="50">Who</td>
-   <td height="50">What</td>
+   <td height="50">Lecture</td>
+   <td height="50">Beccuti/Bonnal/Calogero</td>
+   <td height="50">Introduction to docker survival commands</td>
 </tr>
 <tr>
    <td height="50">12:30 - 13:30</td>
@@ -156,9 +158,9 @@ By the end of this course, the participant will be able to:<br>
 </tr>
 <tr>
   <td height="50">13:30 - 15:00</td>
-  <td height="50">Lecture or Practical</td>
-   <td height="50">Who</td>
-   <td height="50">What</td>
+  <td height="50">Practical</td>
+   <td height="50">Beccuti/Bonnal/Calogero</td>
+   <td height="50">Create a simple docker image</td>
 </tr>
 <tr>
    <td height="50">15:00 - 15:30</td>
@@ -166,14 +168,53 @@ By the end of this course, the participant will be able to:<br>
 </tr>
 <tr>
   <td height="50">15:30 - 17:00</td>
-  <td height="50">Lecture or Practical</td>
-   <td height="50">Who</td>
-   <td height="50">What</td></tr>
+  <td height="50">Practical</td>
+   <td height="50">Beccuti/Bonnal/Calogero</td>
+   <td height="50">Execute a simple docker image</td>
+   </tr>
 <tr>
   <td height="50">17:00 - 18:00</td>
-  <td height="50">Lecture or Practical</td>
-   <td height="50">Who</td>
-   <td height="50">What</td>
+  <td height="50">Practical</td>
+   <td height="50">Beccuti/Bonnal/Calogero</td>
+   <td height="50">Build a docker image embedding R enviroment.</td>
+</tr>
+</tr>
+<tr>
+   <td height="50">10:30 - 11:00</td>
+   <td height="50" colspan="3">Coffee break</td>
+</tr>
+<tr>
+   <td height="50">11:00 - 12:30</td>
+   <td height="50">Practical</td>
+   <td height="50">Beccuti/Bonnal/Calogero</td>
+   <td height="50">Create an image using docker file</td>
+</tr>
+<tr>
+   <td height="50">12:30 - 13:30</td>
+   <td height="50" colspan="3">Lunch break </td>
+</tr>
+<tr>
+  <td height="50">13:30 - 15:00</td>
+  <td height="50">Practical</td>
+   <td height="50">Beccuti/Bonnal/Calogero</td>
+   <td height="50">Embed a real applications in a docker container</td>
+</tr>
+<tr>
+   <td height="50">15:00 - 15:30</td>
+   <td height="50" colspan="3">Coffee break</td>
+</tr>
+<tr>
+  <td height="50">15:30 - 17:00</td>
+  <td height="50">Lecture</td>
+   <td height="50">Beccuti/Bonnal/Calogero</td>
+   <td height="50">Docker swarm in a nutshell</td>
+   </tr>
+<tr>
+  <td height="50">17:00 - 18:00</td>
+  <td height="50">Practical</td>
+   <td height="50">Beccuti/Bonnal/Calogero</td>
+   <td height="50">Deploy services on a cluster using docker swarm.
+</td>
 </tr>
 <tr>
    <td colspan="3"><h3>Day 2 - </h3></td>
@@ -183,10 +224,10 @@ By the end of this course, the participant will be able to:<br>
    <td colspan="3" height="50">Quick recapitulation of concepts from the previous day</td>
 </tr>
 <tr>
- <td height="50">09:00 - 10:30</td>
- <td height="50">Lecture or Practical</td>
-   <td height="50">Who</td>
-   <td height="50">What</td>
+   <td height="50">09:30 - 10:30</td>
+   <td height="50">Lecture </td>
+   <td height="50">Beccuti/Bonnal/Calogero</td>
+   <td height="50">Introduction to docker file</td>
 </tr>
 <tr>
    <td height="50">10:30 - 11:00</td>
@@ -194,19 +235,19 @@ By the end of this course, the participant will be able to:<br>
 </tr>
 <tr>
    <td height="50">11:00 - 12:30</td>
-   <td height="50">Lecture or Practical</td>
-   <td height="50">Who</td>
-   <td height="50">What</td>
+   <td height="50">Practical</td>
+   <td height="50">Beccuti/Bonnal/Calogero</td>
+   <td height="50">Create an image using docker file</td>
 </tr>
 <tr>
    <td height="50">12:30 - 13:30</td>
-   <td height="50" colspan="2">Lunch break </td>
+   <td height="50" colspan="3">Lunch break </td>
 </tr>
 <tr>
   <td height="50">13:30 - 15:00</td>
-  <td height="50">Lecture or Practical</td>
-   <td height="50">Who</td>
-   <td height="50">What</td>
+  <td height="50">Practical</td>
+   <td height="50">Beccuti/Bonnal/Calogero</td>
+   <td height="50">Embed a real applications in a docker container</td>
 </tr>
 <tr>
    <td height="50">15:00 - 15:30</td>
@@ -214,15 +255,15 @@ By the end of this course, the participant will be able to:<br>
 </tr>
 <tr>
   <td height="50">15:30 - 17:00</td>
-  <td height="50">Lecture or Practical</td>
-   <td height="50">Who</td>
-   <td height="50">What</td>
-</tr>
+  <td height="50">Lecture</td>
+   <td height="50">Beccuti/Bonnal/Calogero</td>
+   <td height="50">Docker swarm in a nutshell</td>
+   </tr>
 <tr>
   <td height="50">17:00 - 18:00</td>
-  <td height="50">Lecture or Practical</td>
-   <td height="50">Who</td>
-   <td height="50">What</td>
+  <td height="50">Practical</td>
+   <td height="50">Beccuti/Bonnal/Calogero</td>
+   <td height="50">Deploy services on a cluster using docker swarm.</td>
 </tr>
 </table>
 
