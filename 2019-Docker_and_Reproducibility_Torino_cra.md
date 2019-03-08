@@ -8,7 +8,7 @@ description:
 
 ---
 
-<table border="0">
+<table border="0" width="600">
 <tr>
 	<td><a href="https://elixir-iib-training.github.io/website/"><img src="./img/logo_iib.png" height="80"></a>
 	</td>
@@ -19,7 +19,7 @@ description:
 	</tr>
 	</table>
 	
-<table border="0">
+<table border="0" width="600">
 <tr>
 <td><a href=""><img src="./img/Logo_INGM_web.jpeg" height="60"></a></td>
 <td weight="20"></td>
@@ -135,7 +135,7 @@ By the end of this course, the participant will be able to:<br>
 
 ### Preliminary programme
 
-<table border="1">
+<table border="1" width="600">
 <tr>
    <td colspan="4"><h3>Day 1 - </h3></td>
 </tr>
