@@ -63,11 +63,9 @@ The mandatory requirements for the laptop are the presence of an ethernet plug/a
 ### Instructors
 - [**Marco Beccuti**](https://elixir-iib-training.github.io/website/instructors/marco_beccuti.html) - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
 - [**Raoul Bonnal**](https://elixir-iib-training.github.io/website/instructors/raoul_bonnal.html) -  Istituto Nazionale Genetica Molecolare "Romeo ed Enrica Invernizzi"​ (INGM), Milano, IT
-<br>
 
 ### Helpers
 - [**Raffaele A. Calogero**](https://elixir-iib-training.github.io/website/instructors/raffaele_calogero.html) - Dep. of Molecular Biotechnology and Health Sciences, University of Torino, IT
-<br>
 <br>
 
 ### Organisers
