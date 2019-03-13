@@ -152,7 +152,7 @@ By the end of this course, the participants will be able to:
    <td height="50">09:30 - 10:30</td>
    <td height="50">Lecture </td>
    <td height="50">Beccuti/Bonnal/Calogero</td>
-   <td height="50">General Information on Docker infrastructure<td>
+   <td height="50">General Information on Docker infrastructure</td>
 </tr>
 <tr>
    <td height="50">10:30 - 11:00</td>
