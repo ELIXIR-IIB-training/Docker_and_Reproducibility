@@ -288,20 +288,20 @@ By the end of this course, the participants will be able to:
    <li> CNR (ELIXIR-IIB coordinator)</li>
    <li> CRS4</li>
    <li> CINECA</li>
-   <li> Edmund Mach Foundation</li>
+   <li> Edmund Mach Foundation, Trento</li>
    <li> ENEA</li>
    <li> Fondazione Telethon</li> 
    <li> INFN</li>
    <li> Istituto Superiore di Sanità (ISS)</li> 
    <li> GARR</li>
-   <li> Stazione Zoologica Anton Dohrn, Naples</li>
+   <li> Stazione Zoologica Anton Dohrn, Napoli</li>
    <li> University of Roma "Sapienza"</li>
    <li> University of Bari</li>
    <li> University of Bologna</li>
    <li> University of Firenze</li>
    <li> University of Milano</li>
    <li> University of Milano Bicocca</li>
-   <li> University of Naples</li>
+   <li> University of Napoli</li>
    <li> University of Padova</li>
    <li> University of Parma</li>
    <li> University of Roma "Tor Vergata"</li>
