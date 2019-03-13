@@ -284,7 +284,7 @@ By the end of this course, the participants will be able to:
 <br>
 
 <h3>ELIXIR-IIB member institutions</h3>
-<ul>
+<ol>
    <li> CNR (ELIXIR-IIB coordinator)</li>
    <li> CRS4</li>
    <li> CINECA</li>
@@ -308,5 +308,5 @@ By the end of this course, the participants will be able to:
    <li> University of Salerno</li>
    <li> University of Torino</li>
    <li> University of Tuscia </li>
-</ul>
+</ol>
 
