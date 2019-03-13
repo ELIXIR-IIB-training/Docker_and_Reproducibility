@@ -125,7 +125,7 @@ By the end of this course, the participants will learn:
 
 ### Learning outcomes
 By the end of this course, the participants will be able to:
-- embed your own analysis pipelines in a Docker container using docker file paradigm;
+- embed their own analysis pipelines in a Docker container using the docker file paradigm;
 - use a Docker engine to execute containerized applications.
 <br>
 <br>
