@@ -32,6 +32,7 @@ description: Docker is a container framework for Linux that allows a developer t
 ### Important Dates 
 - Deadline for applications: **17-05-2019**
 - Chosen participants will be notified by: 24-05-2019
+- Course selection will be done on a first-come first-served basis and chosen participants will be immediately notified
 - Course date: **13-14 June 2019**
 <br>
 <br>
@@ -112,17 +113,21 @@ This course is aimed at providing to bioinformaticians and computer scientists t
 ### Course prerequisites
 The participants will need to have basic shell scripting knowledge and basic experience in a scripting language, e.g. R,  Python, or others.
 <br>
+<br>
 
 ### Learning objectives
-(.........Learning objectives describe the goals and intentions of the instructor who teaches the course. They state the purpose and goals of a session or of the course...)
-
-By the end of this course, the participant will learn the core concepts of Docker and how to easily embed bioinformatic pipelines/workflows into a docker container...........................
+By the end of this course, the participants will learn:
+- the basic concepts of Docker;
+- to assess the advantages of a containerized software development & deployment;
+- to use Docker engine features necessary for running containerized applications;
+- how to use the Docker File and Docker Hub to create a Docker image;
+- the various networking mechanisms available in Docker.
 <br>
 
 ### Learning outcomes
-By the end of this course, the participant will be able to:<br>
-- .......one sentence that clearly states the knowledge or the skill that students should be able to demonstrate, to exhibit...
-- ...
+By the end of this course, the participants will be able to:
+- embed your own analysis pipelines in a Docker container using docker file paradigm;
+- use a Docker engine to execute containerized applications.
 <br>
 <br>
 
