@@ -306,7 +306,7 @@ By the end of this course, the participants will be able to:
    <li> University of Parma</li>
    <li> University of Roma "Tor Vergata"</li>
    <li> University of Salerno</li>
-   <li> University of Turin</li>
+   <li> University of Torino</li>
    <li> University of Tuscia </li>
 </ul>
 
